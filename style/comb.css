@@ -1,0 +1,183 @@
+body{
+    font-family: Dosis;
+
+}
+/* ========== Tier 1 (T) ========= */
+.one_Tier_1_T{
+    background-color: #920003;
+    color: #FFFFFF;
+    height: 100px;
+    text-align: right;
+}
+.two_Tier_1_T{
+    background-color: #830207;
+    color: #FFFFFF;
+    height: 100px;
+    text-align: right;
+}
+.three_Tier_1_T{
+    background-color: #1202E2;
+    color: #FFFFFF;
+    height: 100px;
+    text-align: right;
+}
+.four_Tier_1_T{
+    background-color: #0554B6;
+    color: #FFFFFF;
+    height: 100px;
+    text-align: right;
+}
+.five_Tier_1_T{
+    background-color: #240098;
+    color: #FFFFFF;
+    height: 100px;
+    text-align: right;
+}
+.six_Tier_1_T{
+    background-color: #2400B8;
+    color: #FFFFFF;
+    height: 100px;
+    text-align: right;
+}
+.seven_Tier_1_T{
+    background-color: #F80000;
+    color: #FFFFFF;
+    height: 100px;
+    text-align: right;
+}
+.eight_Tier_1_T{
+    background-color: #23004F;
+    color: #FFFFFF;
+    height: 100px;
+    text-align: right;
+}
+.nine_Tier_1_T{
+    background-color: #BC0100;
+    color: #FFFFFF;
+    height: 100px;
+    text-align: right;
+}
+.ten_Tier_1_T{
+    background-color: #240094;
+    color: #FFFFFF;
+    height: 100px;
+    text-align: right;
+}
+.eleven_Tier_1_T{
+    background-color: #360027;
+    color: #FFFFFF;
+    height: 100px;
+    text-align: right;
+}
+
+/* ========== TIER 2 (T/N) ==========*/
+.one_Tier_2_TN{
+    background-color: #00FF01;
+    color: #000;
+    height: 100px;
+    text-align: right;
+}
+.two_Tier_2_TN{
+    background-color: #000000;
+    color: #FFFFFF;
+    height: 100px;
+    text-align: right;
+}
+.three_Tier_2_TN{
+    background-color: #0D0094;
+    color: #FFFFFF;
+    height: 100px;
+    text-align: right;
+}
+.four_Tier_2_TN{
+    background-color: #F404F0;
+    color: #FFFFFF;
+    height: 100px;
+    text-align: right;
+}
+.five_Tier_2_TN{
+    background-color: #FF00FB;
+    color: #FFFFFF;
+    height: 100px;
+    text-align: right;
+}
+.six_Tier_2_TN{
+    background-color: #00FE00;
+    color: #000;
+    height: 100px;
+    text-align: right;
+}
+.seven_Tier_2_TN{
+    background-color: #270D94;
+    color: #FFFFFF;
+    height: 100px;
+    text-align: right;
+}
+.eight_Tier_2_TN{
+    background-color: #001B02;
+    color: #FFFFFF;
+    height: 100px;
+    text-align: right;
+}
+.nine_Tier_2_TN{
+    background-color: #1D00E2;
+    color: #FFFFFF;
+    height: 100px;
+    text-align: right;
+}
+.ten_Tier_2_TN{
+    background-color: #02FA02;
+    color: #000;
+    height: 100px;
+    text-align: right;
+}
+.eleven_Tier_2_TN{
+    background-color: #020504;
+    color: #FFFFFF;
+    height: 100px;
+    text-align: right;
+}
+
+/* ========== TIER 3 (T/N_II) =========*/
+.one_Tier_3_TN{
+    background-color: #0D0094;
+    color: #FFFFFF;
+    height: 100px;
+    text-align: right;
+}
+.two_Tier_3_TN{
+    background-color: #1700FF;
+    color: #FFFFFF;
+    height: 100px;
+    text-align: right;
+}
+.three_Tier_3_TN{
+    background-color: #4201FF;
+    color: #FFFFFF;
+    height: 100px;
+    text-align: right;
+}
+.four_Tier_3_TN{
+    background-color: #6500FF;
+    color: #000;
+    height: 100px;
+    text-align: right;
+}
+.five_Tier_3_TN{
+    background-color: #AA02FC;
+    color: #FFFFFF;
+    height: 100px;
+    text-align: right;
+}
+.six_Tier_3_TN{
+    background-color: #9000FD;
+    color: #FFFFFF;
+    height: 100px;
+    text-align: right;
+}
+.seven_Tier_3_TN{
+    background-color: #010055;
+    color: #FFFFFF;
+    height: 100px;
+    text-align: right;
+}
